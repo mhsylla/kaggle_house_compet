@@ -76,10 +76,20 @@ Optuna_xgb
 #     'colsample_bytree': 0.22301,
 #     'subsample': 0.45878,
 #     'min_child_weight': 3,
-# }
+# }1.1278363711240071
+
+
+3
+best_params_xgb = {
+    'n_estimators': 1376,
+    'learning_rate': 0.007678724589556792,
+    'colsample_bytree': 0.5276491625866035,
+    'subsample': 0.483647510682951,
+    'min_child_weight': 5
+ }1.1207229044538494
 
 
 
 
 
-1.1278363711240071
+
