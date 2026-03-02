@@ -45,6 +45,16 @@ Optuna_catb
 # }
 
 
+3
+best_params_cat
+{
+    'iterations': 7854,
+    'learning_rate': 0.006112041297559089, 
+    'depth': 4,
+    'eval_metric':'RMSE',
+}
+
+
 
 
 Optuna_xgb
