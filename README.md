@@ -52,7 +52,8 @@ best_params_cat
     'learning_rate': 0.006112041297559089, 
     'depth': 4,
     'eval_metric':'RMSE',
-}
+}1.1197438154694592
+
 
 
 
